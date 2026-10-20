@@ -16,9 +16,9 @@ Pedir um capacete exige mais do que escrever “capacete”: a cor e a quantidad
 
 **O vídeo mostra o percurso:** buscar um material → escolher a variante → montar o carrinho → classificar a compra → gerar o PDF.
 
-[![Assistir à demonstração do Catálogo DPL](assets/brag.jpg)](assets/brag.mp4)
+[![Baixar demonstração do Catálogo DPL em vídeo](assets/brag.jpg)](https://github.com/marcosimoes777/marcosimoes777/raw/refs/heads/main/assets/brag.mp4)
 
-**▶ Clique na imagem para abrir a demonstração em vídeo.**
+**▶ Clique na imagem para baixar a demonstração em vídeo (MP4 · 20 s).**
 
 *Demonstração do lançamento, em outubro de 2026.*
 
